@@ -278,8 +278,8 @@ var app = ( function() {
 	                    var zPos = Math.sin(circularMotionAngle + (i - 1) * (Math.PI / 2)) * radius;
 	
 	                    models[i].translate = [xPos, -0.3, zPos];
-	                    console.log(i + "X" +xPos);
-	                    console.log(i+ "Z" +zPos);
+	                    //console.log(i + "X" +xPos);
+	                    //console.log(i+ "Z" +zPos);
 	                }
 		            break;
 	            	
