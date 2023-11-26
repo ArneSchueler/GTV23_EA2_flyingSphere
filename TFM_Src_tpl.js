@@ -9,7 +9,7 @@ var app = ( function() {
 	// Array of model objects.
 	var models = [];
 	
-	var continuousRotationAngle = 0;
+	//var continuousRotationAngle = 0;
 	
 	var circularMotionAngle = 0;
 	
